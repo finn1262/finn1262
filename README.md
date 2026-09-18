@@ -1,78 +1,109 @@
-<h1 align="center">Hi there, I'm Dave Desabella <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<div align="center">
 
-<p align="center">
-  <code>finn1262</code> · AI-oriented developer from the Philippines 🇵🇭 (UTC+8)
-</p>
+# Hi, I'm Dave Desabella <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<p align="center">
-  I'm an <b>AI-oriented developer</b> who builds <b>systems programs in C++</b> and
-  <b>automation tools in Python</b> — engineering every system <b>with AI in mind</b>.
-  From login systems and ordering platforms to crypto transaction trackers and trading
-  bots, I turn practical problems into clean, working software.
-</p>
+**`finn1262`** · AI-oriented developer from the Philippines 🇵🇭 (UTC+8)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Always+learning%2C+always+building">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Always+learning%2C+always+building">
+  <img alt="AI-oriented developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Always+learning%2C+always+building">
+</picture>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davedesabella)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dv.ath/)
+![Profile Views](https://komarev.com/ghpvc/?username=finn1262&style=for-the-badge&color=0e75b6)
+
+</div>
+
+---
+
+### 🤖 About Me
+
+- 🧠 **AI-oriented developer** — I design and build systems **with AI in mind**
+- ⚙️ I build **systems programs in C++** and **automation tools in Python**
+- ₿ I enjoy building crypto tooling: transaction trackers, trading bots, and automation
+- 📍 Based in the Philippines (UTC+8)
 
 ---
 
 ### 🧰 Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,git,github&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python,git,github&theme=light">
+  <img alt="C++, Python, Git, GitHub" src="https://skillicons.dev/icons?i=cpp,python,git,github&theme=light">
+</picture>
+
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [**Academic_Assistant**](https://github.com/finn1262/Academic_Assistant) | Academic helper tool to streamline study workflows. |
-| [**BTC-Transaction-Tracker**](https://github.com/finn1262/BTC-Transaction-Tracker) | Python tool for tracking Bitcoin transactions. |
-| [**Ecode_Cli**](https://github.com/finn1262/Ecode_Cli) | Command-line utility built for developer workflow. |
+<div align="center">
+
+| [Academic_Assistant](https://github.com/finn1262/Academic_Assistant) | [BTC-Transaction-Tracker](https://github.com/finn1262/BTC-Transaction-Tracker) | [Ecode_Cli](https://github.com/finn1262/Ecode_Cli) |
+|:---:|:---:|:---:|
+| Academic helper tool to streamline study workflows. | Python tool for tracking Bitcoin transactions. | Command-line utility built for developer workflow. |
+
+</div>
 
 > Explore more in my [repositories](https://github.com/finn1262?tab=repositories).
 
 ---
 
-### 🛠️ Side Projects (C++)
+### 🛠️ Side Projects
 
-Hands-on systems I've built to sharpen my fundamentals:
+<div align="center">
 
-- [OrderingSystem_SwitchCase](https://github.com/finn1262/OrderingSystem_SwitchCase)
-- [Simple_Letter_System](https://github.com/finn1262/Simple_Letter_System)
-- [LoginSystem](https://github.com/finn1262/LoginSystem)
-- [ChatSystem](https://github.com/finn1262/ChatSystem)
-- [Ordering-System](https://github.com/finn1262/Ordering-System)
+| C++ Systems | C++ Practice |
+|:---:|:---:|
+| [OrderingSystem_SwitchCase](https://github.com/finn1262/OrderingSystem_SwitchCase) | [Mathematical_Operator_Selection_System_Practice](https://github.com/finn1262/Mathematical_Operator_Selection_System_Practice) |
+| [Simple_Letter_System](https://github.com/finn1262/Simple_Letter_System) | [Selection_Conditional_System_Practice](https://github.com/finn1262/Selection_Conditional_System_Practice) |
+| [LoginSystem](https://github.com/finn1262/LoginSystem) | |
+| [ChatSystem](https://github.com/finn1262/ChatSystem) | |
+| [Ordering-System](https://github.com/finn1262/Ordering-System) | |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-umber.vercel.app/api?username=finn1262&show_icons=true&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-umber.vercel.app/api?username=finn1262&show_icons=true&theme=default">
-  <img align="center" alt="Dave Desabella's GitHub Stats" src="https://github-readme-stats-umber.vercel.app/api?username=finn1262&show_icons=true&theme=default">
+  <img alt="Dave Desabella's GitHub Stats" src="https://github-readme-stats-umber.vercel.app/api?username=finn1262&show_icons=true&theme=default">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-umber.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-umber.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=default">
-  <img align="center" alt="Top Languages" src="https://github-readme-stats-umber.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://github-readme-stats-umber.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=default">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=finn1262&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=finn1262&theme=default">
-  <img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=finn1262&theme=default">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=finn1262&theme=default">
 </picture>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davedesabella)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dv.ath/)
 
----
+<i>Always learning, always building.</i> 🚀
 
-<p align="center"><i>Always learning, always building.</i> 🚀</p>
+</div>
