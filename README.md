@@ -42,9 +42,9 @@ A series of hands-on systems I've built to sharpen my fundamentals:
 
 ### 📊 GitHub stats
 
-![finn1262's GitHub stats](https://github-readme-stats.vercel.app/api?username=finn1262&show_icons=true&theme=radical)
+![finn1262's GitHub stats](https://github-stats-alpha.vercel.app/api?username=finn1262)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=finn1262&theme=radical)
 
 ---
 
