@@ -32,9 +32,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,github&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python,github&theme=light">
-  <img alt="C++, Python, GitHub" src="https://skillicons.dev/icons?i=cpp,python,github&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgithub&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgithub&theme=light">
+  <img alt="C++, Python, GitHub" src="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgithub&theme=light">
 </picture>
 
 </div>
