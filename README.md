@@ -5,9 +5,9 @@
 **`finn1262`** · AI-oriented developer from the Philippines 🇵🇭 (UTC+8)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Always+learning%2C+always+building">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Always+learning%2C+always+building">
-  <img alt="AI-oriented developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Always+learning%2C+always+building">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Building+tools+with+AI+in+mind;Always+learning%2C+always+building">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Building+tools+with+AI+in+mind;Always+learning%2C+always+building">
+  <img alt="AI-oriented developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI-oriented+developer;C%2B%2B+%26+Python+systems+builder;Building+tools+with+AI+in+mind;Always+learning%2C+always+building">
 </picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davedesabella)
@@ -23,7 +23,15 @@
 - 🧠 **AI-oriented developer** — I design and build systems **with AI in mind**
 - ⚙️ I build **systems programs in C++** and **automation tools in Python**
 - ₿ I enjoy building crypto tooling: transaction trackers, trading bots, and automation
+- 🚀 I care about clean architecture, readable code, and tools that actually ship
 - 📍 Based in the Philippines (UTC+8)
+
+---
+
+### 🔨 Currently Building
+
+- **[Ecode_Cli](https://github.com/finn1262/Ecode_Cli)** — a command-line agent for rapid idea-to-program development
+- **BTC 5m Polybot** *(private)* — a paper-trading bot for Polymarket BTC 5-minute markets
 
 ---
 
@@ -32,9 +40,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgithub&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgithub&theme=light">
-  <img alt="C++, Python, GitHub" src="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgithub&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgit%2Cgithub%2Cvscode%2Cwindows%2Cbash&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgit%2Cgithub%2Cvscode%2Cwindows%2Cbash&theme=light">
+  <img alt="C++, Python, Git, GitHub, VS Code, Windows, Bash" src="https://skillicons.dev/icons?i=cpp%2Cpython%2Cgit%2Cgithub%2Cvscode%2Cwindows%2Cbash&theme=light">
 </picture>
 
 </div>
@@ -45,13 +53,15 @@
 
 <div align="center">
 
-| [Academic_Assistant](https://github.com/finn1262/Academic_Assistant) | [BTC-Transaction-Tracker](https://github.com/finn1262/BTC-Transaction-Tracker) | [Ecode_Cli](https://github.com/finn1262/Ecode_Cli) |
-|:---:|:---:|:---:|
-| Academic helper tool to streamline study workflows. | Python tool for tracking Bitcoin transactions. | Command-line utility built for developer workflow. |
+| Project | What it does |
+|:---|:---|
+| 🧠 **[Ecode_Cli](https://github.com/finn1262/Ecode_Cli)** | The command-line agent for rapid idea-to-program development. |
+| ₿ **[BTC-Transaction-Tracker](https://github.com/finn1262/BTC-Transaction-Tracker)** | Python tool for tracking Bitcoin transactions. |
+| 📚 **[Academic_Assistant](https://github.com/finn1262/Academic_Assistant)** | Academic helper tool that streamlines study workflows. |
 
 </div>
 
-> Explore more in my [repositories](https://github.com/finn1262?tab=repositories).
+> More C++ systems and practice builds live in my [repositories](https://github.com/finn1262?tab=repositories).
 
 ---
 
@@ -74,6 +84,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=finn1262&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=finn1262&theme=default">
   <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=finn1262&theme=default">
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=finn1262&theme=github-compact&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=finn1262&theme=github&hide_border=true&area=true">
+  <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=finn1262&theme=github&hide_border=true&area=true">
 </picture>
 
 </div>
