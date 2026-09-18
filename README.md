@@ -32,16 +32,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,git,github,flask,windows,powershell&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python,git,github,flask,windows,powershell&theme=light">
-  <img alt="C++, Python, Git, GitHub, Flask, Windows, PowerShell" src="https://skillicons.dev/icons?i=cpp,python,git,github,flask,windows,powershell&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,github&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python,github&theme=light">
+  <img alt="C++, Python, GitHub" src="https://skillicons.dev/icons?i=cpp,python,github&theme=light">
 </picture>
-
-![Textual](https://img.shields.io/badge/Textual-5D5CDE?style=for-the-badge)
-![Rich](https://img.shields.io/badge/Rich-7B3FE4?style=for-the-badge)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![websockets](https://img.shields.io/badge/websockets-010101?style=for-the-badge)
-![requests](https://img.shields.io/badge/requests-2A6DB5?style=for-the-badge)
 
 </div>
 
