@@ -32,10 +32,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,git,github&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python,git,github&theme=light">
-  <img alt="C++, Python, Git, GitHub" src="https://skillicons.dev/icons?i=cpp,python,git,github&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,git,github,flask,windows,powershell&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python,git,github,flask,windows,powershell&theme=light">
+  <img alt="C++, Python, Git, GitHub, Flask, Windows, PowerShell" src="https://skillicons.dev/icons?i=cpp,python,git,github,flask,windows,powershell&theme=light">
 </picture>
+
+![Textual](https://img.shields.io/badge/Textual-5D5CDE?style=for-the-badge)
+![Rich](https://img.shields.io/badge/Rich-7B3FE4?style=for-the-badge)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![websockets](https://img.shields.io/badge/websockets-010101?style=for-the-badge)
+![requests](https://img.shields.io/badge/requests-2A6DB5?style=for-the-badge)
 
 </div>
 
@@ -55,22 +61,6 @@
 
 ---
 
-### 🛠️ Side Projects
-
-<div align="center">
-
-| C++ Systems | C++ Practice |
-|:---:|:---:|
-| [OrderingSystem_SwitchCase](https://github.com/finn1262/OrderingSystem_SwitchCase) | [Mathematical_Operator_Selection_System_Practice](https://github.com/finn1262/Mathematical_Operator_Selection_System_Practice) |
-| [Simple_Letter_System](https://github.com/finn1262/Simple_Letter_System) | [Selection_Conditional_System_Practice](https://github.com/finn1262/Selection_Conditional_System_Practice) |
-| [LoginSystem](https://github.com/finn1262/LoginSystem) | |
-| [ChatSystem](https://github.com/finn1262/ChatSystem) | |
-| [Ordering-System](https://github.com/finn1262/Ordering-System) | |
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -78,19 +68,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-umber.vercel.app/api?username=finn1262&show_icons=true&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-umber.vercel.app/api?username=finn1262&show_icons=true&theme=default">
-  <img alt="Dave Desabella's GitHub Stats" src="https://github-readme-stats-umber.vercel.app/api?username=finn1262&show_icons=true&theme=default">
+  <img height="170" alt="Dave Desabella's GitHub Stats" src="https://github-readme-stats-umber.vercel.app/api?username=finn1262&show_icons=true&theme=default">
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-umber.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-umber.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=default">
-  <img alt="Top Languages" src="https://github-readme-stats-umber.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=default">
+  <img height="170" alt="Top Languages" src="https://github-readme-stats-umber.vercel.app/api/top-langs/?username=finn1262&layout=compact&theme=default">
 </picture>
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=finn1262&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=finn1262&theme=default">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=finn1262&theme=default">
+  <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=finn1262&theme=default">
 </picture>
 
 </div>
